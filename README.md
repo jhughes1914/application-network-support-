@@ -40,6 +40,8 @@ Restore application and peripheral access.
 
 ## Result
 - Applications restored
+- Printing functionality recovered
+- Reduced repeat incidents
 
 # Troubleshooting Workflow
 Application or Printer Fails
@@ -62,6 +64,4 @@ Test Functionality
 
 ✔ Proves documentation and process discipline
 
-Printing functionality recovered
 
-Reduced repeat incidents
